@@ -1,0 +1,31 @@
+🎬 Netflix Clone – Frontend Web Application
+Tech Stack: HTML5, CSS3, JavaScript (ES6), Responsive Web Design
+
+Project Overview:
+Designed and developed a fully responsive Netflix clone that replicates the visual aesthetics and user experience of the official Netflix platform. The project showcases strong frontend development skills and understanding of layout, design, and interactivity using only HTML, CSS, and JavaScript.
+
+Key Features:
+
+🔻 Hero Section & Banner: Built a top banner with dynamic background and description text for featured shows, styled using layered CSS gradients and background images.
+
+📂 Category Rows: Structured movie/show rows by genre using horizontal scrollable carousels, similar to Netflix's layout.
+
+🔄 Dynamic Data Loading: Simulated real-world data fetching using static JSON or JavaScript arrays to populate content dynamically.
+
+🖱️ Hover Effects: Implemented interactive hover overlays showing “Play”, “Add to List”, and “Like” icons for each card.
+
+📱 Responsive Design: Used CSS Flexbox and media queries to ensure seamless user experience across desktop, tablet, and mobile screens.
+
+🎨 Theming and Styling: Achieved a dark-themed, modern UI using custom CSS with Netflix-style fonts, colors, and layout.
+
+🧠 Clean Code & Modularity: Separated concerns with structured files (HTML for structure, CSS for design, JS for logic) and used semantic tags for accessibility.
+
+🧪 Basic Testing: Manually tested for responsiveness, hover behavior, and layout consistency on multiple devices.
+
+Learning Outcome:
+
+Strengthened knowledge of frontend development principles.
+
+Gained experience in DOM manipulation, responsive design, and UX/UI cloning.
+
+Improved ability to recreate production-quality web interfaces using vanilla technologies.
